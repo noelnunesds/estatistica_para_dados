@@ -1,6 +1,7 @@
-env_estatistica
+env_estatistica/
 
-.venv
+.venv/
 
-venv
+.env/
+
 
